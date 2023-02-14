@@ -1,0 +1,8 @@
+msgid "From"
+msgstr "~~From~~"
+
+msgid "To"
+msgstr "~~To~~"
+
+msgid "Package origin address as configured in shipping templates"
+msgstr "Package origin address as configured in shipping templates"
